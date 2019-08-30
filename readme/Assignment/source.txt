@@ -1,0 +1,43 @@
+css 
+
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+js
+
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+
+slide 
+
+    https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+
+
+navigation
+
+    https://bootswatch.com/lumen/
+
+icon fontawesome 4
+
+    https://fontawesome.com/v4.7.0/icon
+
+Custom alert
+
+    https://sweetalert2.github.io/
+
+Admin template
+
+   https://demos.creative-tim.com/argon-dashboard/docs/components/buttons.html
+
+
+Admin modules
+
+  - Dashboard
+  - User Management
+  - Staff Management
+  - Product Management
+  - Category Management
+  - Ads Management 
+
+
+
